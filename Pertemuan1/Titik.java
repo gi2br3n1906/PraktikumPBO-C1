@@ -8,11 +8,11 @@
      	/************ATRIBUT*************/
      	double absis;
      	double ordinat;
-	static int counterTitik = 0;
+		static int counterTitik = 0;
 
-     	/***********METHOD***************/
-     	//konstruktor untuik membuat titik (0,0)
-    	Titik(){
+    /***********METHOD***************/
+    //konstruktor untuik membuat titik (0,0)
+    Titik(){
 		this(0,0);
 		counterTitik++;
 	}
