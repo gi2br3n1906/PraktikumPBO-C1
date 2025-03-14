@@ -1,7 +1,7 @@
-/*Nama File : 
- *Deskripsi : 
- *Pembuat   :
- *Tanggal   :
+/*Nama File : Mahasiswa.java 
+ *Deskripsi : Berisi file class dan method untuk class Mahasiswa
+ *Pembuat   : 24060123130112/Gibran Ahmad Maulana
+ *Tanggal   : 26 Oktober 2025
  */
 
  import java.util.ArrayList;
@@ -66,7 +66,22 @@
 	public void setProdi(String prodi){
 		this.prodi = prodi;
 	}
+	
+	public void addMatkul(MataKuliah newMatkul){
+		listMatkul.add(newMatkul);
+	} 
 
+	public int getJumlahSKS(){
+		int jumlah = 0;
+		for (int i = 0; i < getListMatkul.size(); i++) {
+			jumlah = jumlah + listMatkul.get(i).getSks();
+		return jumlah;
+		}
+	}
 
-
+	public int getJumlahMatkul() {
+		return self
+	}
+	
 }
+ 
