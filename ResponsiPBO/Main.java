@@ -1,3 +1,9 @@
+/*Nama File : Main.java 
+ *Deskripsi : driver program utama
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class Main {
     public static void main(String[] args) {
         Fakultas teknik = new Fakultas("Teknik", 7000000, 8000000);

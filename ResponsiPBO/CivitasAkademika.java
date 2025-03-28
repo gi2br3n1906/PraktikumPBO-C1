@@ -1,3 +1,9 @@
+/*Nama File : CivitasAkademika.java 
+ *Deskripsi : berisi atribut dan method dalam class Civitas Akademika
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class CivitasAkademika {
     private String nama;
     private String email;

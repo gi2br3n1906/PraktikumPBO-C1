@@ -1,3 +1,9 @@
+/*Nama File : Karyawan.java 
+ *Deskripsi : berisi atribut dan method dalam class Karyawan
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public abstract class Karyawan extends CivitasAkademika{
     private String nip;
     private int masaKerja;

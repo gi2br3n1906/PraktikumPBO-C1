@@ -1,3 +1,9 @@
+/*Nama File : Mahasiswa.java 
+ *Deskripsi : berisi atribut dan method dalam class Mahasiswa
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class Mahasiswa extends CivitasAkademika{
     private String nim;
     private int semester;

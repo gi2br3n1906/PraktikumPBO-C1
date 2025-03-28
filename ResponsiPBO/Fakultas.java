@@ -1,3 +1,9 @@
+/*Nama File : Fakultas.java 
+ *Deskripsi : berisi atribut dan method dalam class Fakultas
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class Fakultas {
     private String nama;
     private double tarifUKT;

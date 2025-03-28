@@ -1,3 +1,9 @@
+/*Nama File : Tendik.java 
+ *Deskripsi : berisi atribut dan method dalam class Tendik
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class Tendik extends Karyawan{
     private static int jumlahTendik = 0;
 

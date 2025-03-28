@@ -1,3 +1,9 @@
+/*Nama File : Dosen.java 
+ *Deskripsi : berisi atribut dan method dalam class Dosen
+ *Pembuat   : Gibran Ahmad Maulana/24060123130112
+ *Tanggal   : 28 Maret 2025
+ */
+
 public class Dosen extends Karyawan{
     private Fakultas fakultas;
     private static int jumlahDosen = 0;
